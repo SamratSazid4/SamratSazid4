@@ -1,3 +1,6 @@
+<img align="center" alt="SamratSazid4" width="100%" src="https://virtualteachbd.com/wp-content/uploads/2022/03/web-development.png"/>
+
+
 <h1 align="center">Hi 👋, I'm Sazid</h1>
 <h3 align="center">A passionate Full stack web developer from Bangladesh</h3>
 
